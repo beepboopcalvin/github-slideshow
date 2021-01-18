@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Where was github when the westfold fell?
 Use the left arrow to go back!
